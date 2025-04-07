@@ -170,10 +170,10 @@ export default function HeroSection() {
                         </div>
 
                         <div className="box">
-                            <img src="/images/certificates/01.png" alt="" />
+                            <img src="/images/certificates/01.PNG" alt="" />
                         </div>
                         <div className="box">
-                            <img src="/images/certificates/02.png" alt="" />
+                            <img src="/images/certificates/02.PNG" alt="" />
                         </div>
                     </motion.div>
                 </div>
