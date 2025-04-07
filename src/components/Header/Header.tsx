@@ -82,7 +82,7 @@ export default function Header() {
                                 <i className="hgi hgi-stroke hgi-sharp hgi-sun-02"></i>
                             </div> */}
                             <Link href='/contact'>
-                                Let's Talk
+                                Let&apos;s Talk
                                 <i className="hgi hgi-stroke hgi-sent"></i>
                             </Link>
                         </div>

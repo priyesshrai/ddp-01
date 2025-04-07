@@ -2,8 +2,6 @@
 import React from 'react'
 import SideBar from '../SideBar/SideBar'
 import Image from 'next/image'
-import Marquee from "react-fast-marquee";
-import Link from 'next/link';
 import { motion } from "motion/react"
 
 export default function HeroSection() {
@@ -190,7 +188,7 @@ export default function HeroSection() {
                             <h2>Recent Projects</h2>
                         </div>
 
-                        <h3>1. Worked for Round Table India's clasrrom strategy development for trainign teachers</h3>
+                        <h3>1. Worked for Round Table India&apos;s clasrrom strategy development for trainign teachers</h3>
                         <h3>2. Worked with Kuda baazar NGO team for the ganga ghat cleaning drive</h3>
                     </div>
                 </motion.div>
