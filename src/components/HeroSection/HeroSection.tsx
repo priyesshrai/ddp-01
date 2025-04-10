@@ -135,7 +135,7 @@ export default function HeroSection() {
                             </Link>
                         </div>
                         <div className="block-layout-content">
-                            <h3>1. Worked for Round Table India's clasrrom strategy development for trainign teachers</h3>
+                            <h3>1. Worked for Round Table India&apos;s clasrrom strategy development for trainign teachers</h3>
                             <h3>2. Worked with Kuda baazar NGO team for the ganga ghat cleaning drive</h3>
                         </div>
                         {/* <Fancybox

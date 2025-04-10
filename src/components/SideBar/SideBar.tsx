@@ -10,12 +10,12 @@ export default function SideBar() {
   
   const bio = "Pursuing B.com from Udai Pratap Autonomous College / Ex-Intern of an NGO Samarpan Mahila Kalyaan Samiti"
 
-  function handleEmailBtn() {
-    const email = "prashantprajapati@gmail.com";
-    navigator.clipboard.writeText(email)
-      .then(() => alert("Email copied to clipboard!"))
-      .catch(err => console.error("Failed to copy email: ", err));
-  }
+  // function handleEmailBtn() {
+  //   const email = "prashantprajapati@gmail.com";
+  //   navigator.clipboard.writeText(email)
+  //     .then(() => alert("Email copied to clipboard!"))
+  //     .catch(err => console.error("Failed to copy email: ", err));
+  // }
 
   // Helper to trim HTML-safe bio string
   const getTrimmedBio = () => {
